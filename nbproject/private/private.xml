@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="IA_U2">
+            <file>file:/C:/Users/Mui_f/Documents/NetBeansProjects/interfazBDD/src/vista/login.java</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/Mui_f/Documents/NetBeansProjects/interfazBDD/src/controlador/Oyente.java</file>
+            <file>file:/C:/Users/Mui_f/Documents/NetBeansProjects/interfazBDD/src/modelo/ClienteBDD.java</file>
+            <file>file:/C:/Users/Mui_f/Documents/NetBeansProjects/interfazBDD/src/modelo/Crud.java</file>
+            <file>file:/C:/Users/Mui_f/Documents/NetBeansProjects/interfazBDD/src/vista/PanelDatos.java</file>
+            <file>file:/C:/Users/Mui_f/Documents/NetBeansProjects/interfazBDD/src/modelo/ConexionSQL.java</file>
+        </group>
+    </open-files>
+</project-private>
